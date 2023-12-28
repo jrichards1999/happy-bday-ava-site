@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/happy-bday-ava-site/static/css/main.bd0cf928.css",
+    "main.css": "/happy-bday-ava-site/static/css/main.b599cf57.css",
     "main.js": "/happy-bday-ava-site/static/js/main.b13b4c08.js",
     "index.html": "/happy-bday-ava-site/index.html",
-    "main.bd0cf928.css.map": "/happy-bday-ava-site/static/css/main.bd0cf928.css.map",
+    "main.b599cf57.css.map": "/happy-bday-ava-site/static/css/main.b599cf57.css.map",
     "main.b13b4c08.js.map": "/happy-bday-ava-site/static/js/main.b13b4c08.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd0cf928.css",
+    "static/css/main.b599cf57.css",
     "static/js/main.b13b4c08.js"
   ]
 }
